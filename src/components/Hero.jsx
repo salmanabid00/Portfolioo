@@ -81,7 +81,7 @@ const Hero = () => {
                         <FaGithub />
                     </a>
                     <a
-                        href="https://www.linkedin.com/in/salmanmerndev/"
+                        href="https://www.linkedin.com/in/salmandev00/"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-gray-400 hover:text-primary text-3xl transition-colors duration-300"
